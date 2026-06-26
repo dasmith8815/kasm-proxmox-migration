@@ -1,6 +1,6 @@
 # Kasm Workspaces Migration & Secure Remote Access Platform
 
-## 📖 Project Overview
+## Project Overview
 
 This project documents the migration of a **Kasm Workspaces** deployment from an **Ubuntu Proxmox LXC container** to a dedicated **RHEL 9 Virtual Machine** running Docker.
 
