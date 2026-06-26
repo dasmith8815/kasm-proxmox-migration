@@ -112,7 +112,7 @@ Benefits of the migration included:
 
 ---
 
-## 📊 Validation
+## Validation
 
 Successfully verified:
 
