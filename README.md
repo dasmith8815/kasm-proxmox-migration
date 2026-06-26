@@ -138,7 +138,7 @@ This project reinforced several infrastructure concepts:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Proxmox Environment
 
