@@ -1,4 +1,4 @@
-# 🚀 Kasm Workspaces Migration & Secure Remote Access Platform
+# Kasm Workspaces Migration & Secure Remote Access Platform
 
 ## 📖 Project Overview
 
@@ -10,7 +10,7 @@ To create a more stable and maintainable deployment, I migrated the application 
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                     Internet
@@ -30,7 +30,7 @@ To create a more stable and maintainable deployment, I migrated the application 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - RHEL 9
 - Docker
@@ -45,7 +45,7 @@ To create a more stable and maintainable deployment, I migrated the application 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Deploy Kasm Workspaces in a production-style environment
 - Migrate from an unsupported LXC deployment to a dedicated VM
@@ -55,7 +55,7 @@ To create a more stable and maintainable deployment, I migrated the application 
 
 ---
 
-## 🚧 Challenges Encountered
+## Challenges Encountered
 
 ### Docker Networking Limitations
 
@@ -89,7 +89,7 @@ Resolution:
 
 ---
 
-## ✅ Solution
+## Solution
 
 Migrated Kasm to a dedicated RHEL 9 virtual machine running Docker.
 
@@ -103,7 +103,7 @@ Benefits of the migration included:
 
 ---
 
-## 🔒 Security
+## Security
 
 - HTTPS access through Cloudflare Tunnel
 - No inbound firewall ports exposed to the Internet
@@ -124,7 +124,7 @@ Successfully verified:
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 
 This project reinforced several infrastructure concepts:
 
@@ -167,7 +167,7 @@ This project reinforced several infrastructure concepts:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Configure Cloudflare Access for Zero Trust authentication
 - Integrate LDAP/Active Directory authentication
@@ -178,7 +178,7 @@ This project reinforced several infrastructure concepts:
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+## Skills Demonstrated
 
 - Linux Administration
 - Docker
@@ -194,6 +194,6 @@ This project reinforced several infrastructure concepts:
 
 ---
 
-## 📌 Repository Purpose
+## Repository Purpose
 
 This repository demonstrates my ability to troubleshoot infrastructure issues, evaluate architectural tradeoffs, and migrate production-style workloads to more reliable environments while maintaining secure remote access and operational stability.
