@@ -146,7 +146,7 @@ This project reinforced several infrastructure concepts:
 
 ---
 
-### Docker Containers
+### Containers
 
 <img width="1550" height="364" alt="image" src="https://github.com/user-attachments/assets/f11479d8-61a0-4639-ba29-c6e2270d3c61" />
 
